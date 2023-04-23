@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Josefin+Sans:ital@0;1&family=Poppins:wght@400;700&family=Raleway:ital@1&family=Roboto:wght@400;700&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #d2dbdd;
+}
+
+.heading_style{
+  padding: 30px 0;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  text-transform: uppercase;
+  font-size: 13px;
+  letter-spacing: 2px;
+  font-weight: 500;
+  background-color: #fff;
+  font-size: 1.5rem;
+  margin-bottom: 30px;
+}
+
+.Slotmachine{
+  margin: auto;
+  border: 2px solid black;
+  height: 400px;
+  width: 500px;
+  text-align: center;
+  padding: 30px 30px;
+  font-family: 'Raleway', sans-serif;
+  letter-spacing: 2px;
+}
+
